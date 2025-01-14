@@ -135,8 +135,6 @@ We welcome contributions! If you find a bug or want to add new features, feel fr
 - **Make your changes**
 - **Submit a pull request**
 
----
-
 ## Acknowledgments 🎉
 
 - Thanks to the creators of [NestJS](https://nestjs.com/) for making such a great framework 🚀
