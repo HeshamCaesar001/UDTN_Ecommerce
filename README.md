@@ -1,5 +1,3 @@
-
-```markdown
 # Product Management API 📦
 
 Welcome to the **Product Management API**! This API allows you to manage products, including creating, retrieving, updating, and deleting products. The API is protected with JWT authentication, ensuring secure access.
