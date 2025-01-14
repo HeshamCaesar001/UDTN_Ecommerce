@@ -139,4 +139,3 @@ We welcome contributions! If you find a bug or want to add new features, feel fr
 
 - Thanks to the creators of [NestJS](https://nestjs.com/) for making such a great framework 🚀
 - Thanks to [Swagger](https://swagger.io/) for providing a fantastic tool for API documentation 🌐
-```
